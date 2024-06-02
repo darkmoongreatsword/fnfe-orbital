@@ -8,6 +8,6 @@ Built using Create React App.
 
 Key Features:
 
-📆 Event Management: Add, view and manage events on the calendar.
+📆 Event Management: Add, view and manage events on the calendar.           
 📝 Agendas: Create personalised goals and associate them with events.
 
